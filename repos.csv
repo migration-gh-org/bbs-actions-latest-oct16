@@ -1,4 +1,4 @@
 project-key,project-name,repo,github_org,github_repo,gh_repo_visibility
-BBSMIG,bbs-migration-demo,Maven Hello World,gl-mig-org,calotracker_bbs-oct16,private
-BBSMIG,bbs-migration-demo,solid-api,gl-mig-org,solid-api_bbs-oct16,private
-BBSMIG,bbs-migration-demo,test-repo,gl-mig-org,test-repo-large-oct16,private
+DEM,demo-project,copilot-workshops,gl-mig-org,cp-ws-nov03,private
+DEM,demo-project,sample-demo,gl-mig-org,sample-demo-nov03,private
+ 
